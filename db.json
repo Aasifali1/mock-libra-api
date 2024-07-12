@@ -1,46 +1,52 @@
 {
-  "posts": [
+  "Libra": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "bookStore": "Libra Book Store",
+      "bookName": "The Lord of the Rings",
+      "author": "Michael Connelly",
+      "cost": 15
+    },
+    {
+      "bookStore": "Libra Book Store",
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "cost": 18
+    },
+    {
+      "bookStore": "Libra Book Store",
+      "bookName": "1984",
+      "author": "George Orwell",
+      "cost": 12
+    },
+    {
+      "bookStore": "Libra Book Store",
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "cost": 14
+    },
+    {
+      "bookStore": "Libra Book Store",
+      "bookName": "Moby Dick",
+      "author": "Herman Melville",
+      "cost": 17
+    },
+    {
+      "bookStore": "Libra Book Store",
+      "bookName": "War and Peace",
+      "author": "Leo Tolstoy",
+      "cost": 20
+    },
+    {
+      "bookStore": "Libra Book Store",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "cost": 16
+    },
+    {
+      "bookStore": "Libra Book Store",
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "cost": 13
     }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "email": "johndoe@example.com"
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "janesmith@example.com"
-    },
-    {
-      "id": 3,
-      "name": "Robert Brown",
-      "email": "robertbrown@example.com"
-    },
-    {
-      "id": 4,
-      "name": "Emily Davis",
-      "email": "emilydavis@example.com"
-    },
-    {
-      "id": 5,
-      "name": "Michael Wilson",
-      "email": "michaelwilson@example.com"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
